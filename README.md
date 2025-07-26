@@ -69,3 +69,28 @@ This dashboard is designed to auto-refresh daily, pulling updated data directly 
 
 ---
 
+## 📌 Key Insights
+
+- Tier 1 and Tier 3 outlets together contribute over 70% of revenue
+- Fruits & Vegetables are the most frequently purchased category
+- Items with **Regular Fat Content** dominate with 64.6% of total sales
+- Outlets launched in 2017 and 2022 achieved the highest average sales
+
+---
+
+## 🧠 What I Learned
+
+- Connecting Google Sheets to Power BI for live simulation
+- Building flexible, responsive dashboards with visuals that support exploration
+- Creating compelling stories with KPIs, filters, and custom themes
+- Presenting dashboards clearly to non-technical audiences
+
+---
+
+## 🔗 Related Links
+
+- 📌 [Google Sheet Source (View Only)](https://docs.google.com/spreadsheets/d/1A6u2E2ezaduOi0ALr2BFBzxVtkJrGkVEjZJuxaZxTZY/edit?usp=sharing)
+- 📘 [LinkedIn Project Post](https://www.linkedin.com/posts/yukti-garg-8397b4218_powerbi-dataanalytics-blinkit-activity-7354722000776450048-mhQT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbvbq0BuWuZY59wYVaOQNE_dzsBWSy4ksE)
+
+---
+
