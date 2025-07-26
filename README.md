@@ -89,7 +89,7 @@ This dashboard is designed to auto-refresh daily, pulling updated data directly 
 
 ## 🔗 Related Links
 
-- 📌 [Google Sheet Source (View Only)](https://docs.google.com/spreadsheets/d/1A6u2E2ezaduOi0ALr2BFBzxVtkJrGkVEjZJuxaZxTZY/edit?usp=sharing)
+- 📌 [Google Sheet Source](https://docs.google.com/spreadsheets/d/1A6u2E2ezaduOi0ALr2BFBzxVtkJrGkVEjZJuxaZxTZY/edit?usp=sharing)
 - 📘 [LinkedIn Project Post](https://www.linkedin.com/posts/yukti-garg-8397b4218_powerbi-dataanalytics-blinkit-activity-7354722000776450048-mhQT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbvbq0BuWuZY59wYVaOQNE_dzsBWSy4ksE)
 
 ---
