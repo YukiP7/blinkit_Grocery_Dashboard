@@ -57,7 +57,7 @@ This dashboard is designed to auto-refresh daily, pulling updated data directly 
 
 - **Source:** Google Sheets published as live CSV
 - **ETL Layer:** Power BI transforms the incoming sheet data into cleaned, usable model
-- **Refresh Trigger:** Manual refresh in Power BI Desktop (or schedulable in Power BI Service)
+- **Refresh Trigger:** Manual refresh in Power BI Desktop 
 
 ---
 
