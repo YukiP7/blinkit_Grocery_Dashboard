@@ -51,6 +51,16 @@ A real-time Power BI dashboard project inspired by Blinkit — India’s last-mi
   
 ---
 
+## 🔄 Auto-Refresh Dashboard
+
+This dashboard is designed to auto-refresh daily, pulling updated data directly from Google Sheets. Using Power BI’s ETL (Extract, Transform, Load) capabilities, new sales data is transformed and visualized automatically — simulating a live reporting experience.
+
+- **Source:** Google Sheets published as live CSV
+- **ETL Layer:** Power BI transforms the incoming sheet data into cleaned, usable model
+- **Refresh Trigger:** Manual refresh in Power BI Desktop (or schedulable in Power BI Service)
+
+---
+
 ## 🔧 Tech Stack
 
 - **Power BI Desktop** – Data modeling & dashboard design
