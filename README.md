@@ -47,7 +47,7 @@ A real-time Power BI dashboard project inspired by Blinkit — India’s last-mi
   Dynamic slicers for outlet size, location type, and more
 
 - **Auto-Refresh Dashboard**
-  Data is fetched daily from Google Sheets and transformed using Power BI's ETL pipeline to reflect live insights
+   Data is fetched daily from Google Sheets and transformed using Power BI's ETL pipeline to reflect live insights
   
 ---
 
