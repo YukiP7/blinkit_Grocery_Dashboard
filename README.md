@@ -59,5 +59,3 @@ A real-time Power BI dashboard project inspired by Blinkit — India’s last-mi
 
 ---
 
-## 📁 Folder Structure
-
