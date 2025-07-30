@@ -17,12 +17,12 @@ A real-time Power BI dashboard project inspired by Blinkit — India’s last-mi
 
 ## 🔧 Steps I Followed
 
-1. **Structured sales data** in Google Sheets and enabled a live CSV feed
-2. **Connected Power BI** via the Web connector using a public CSV link
-3. **Designed visuals** and layout using bar charts, donut charts, tables, and time series
-4. **Built DAX measures** for accurate KPIs (like average rating and item counts)
-5. **Simulated auto-refresh** to reflect "real-time" behavior from Google Sheets
-6. **Exported the final report** and built a public portfolio page for viewing
+- **Structured sales data** in Google Sheets and enabled a live CSV feed
+- **Connected Power BI** via the Web connector using a public CSV link
+- **Designed visuals** and layout using bar charts, donut charts, tables, and time series
+- **Built DAX measures** for accurate KPIs (like average rating and item counts)
+- **Simulated auto-refresh** to reflect "real-time" behavior from Google Sheets
+- **Exported the final report** and built a public portfolio page for viewing
 
 ---
 
