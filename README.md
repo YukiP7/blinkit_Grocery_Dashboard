@@ -26,6 +26,25 @@ A real-time Power BI dashboard project inspired by Blinkit — India’s last-mi
 
 ---
 
+## 🏪 Business Value for Blinkit
+1. Product Strategy
+- Tracks best-selling items and low performers across outlets.
+- Teams can optimize inventory — boosting popular categories while cutting down the clutter.
+  
+2. Outlet Expansion Planning
+- Insights into sales by tiered city classification and outlet type help Blinkit decide where to open the next store.
+- If Tier 2 cities show rising returns, that’s a clue for future investment.
+  
+3. Customer-Centric Improvements
+- Average ratings across outlets surface potential experience issues.
+- Enables local teams to resolve complaints or improve service promptly.
+  
+4. Time-Based Growth Monitoring
+- Sales by establishment year help Blinkit assess performance over time.
+- Supports decisions around store renovation, rebranding, or even closure of underperforming locations.
+
+---
+
 ## 📊 Dashboard Features
 
 - **Total Sales & Item Metrics**  
